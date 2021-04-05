@@ -34,7 +34,7 @@ const Product = ({product}) => {
 
 
     return (
-        <div className="col-md-3 text-center rounded ">
+        <div className="col-md-3 mb-2 text-center rounded ">
             <div className="card">
                 <div className="card-body">
                 <img src={product.productImg} className="card-img-top" alt=""/>
