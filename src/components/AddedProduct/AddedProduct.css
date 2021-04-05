@@ -1,0 +1,12 @@
+tbody, td, th, thead, tr{
+    border:none;
+    margin-bottom: 10px;
+}
+
+table {
+    border-collapse: separate;
+    border-spacing: 0 15px;
+}
+.pointer{
+    cursor: pointer;
+}
